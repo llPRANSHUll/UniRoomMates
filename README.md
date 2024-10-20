@@ -45,25 +45,26 @@
    ```bash
    git clone https://github.com/your-username/UniRoomMatess.git
    cd UniRoomMatess
-Install Dependencies 📦
 
-Backend:
+2. **Install Dependencies** 📦
 
-bash
-Copy code
+**Backend:**
+```bash
 cd backend
 npm install
-Frontend:
 
-bash
-Copy code
+**Frontend:**
+
+```bash
 cd ../frontend
 npm install
-Configure Environment Variables 🛠️
+
+
+3.**Configure Environment Variables**🛠️
 
 Create a .env file in the backend directory and add your configurations (e.g., database URI, JWT secret).
 
-Start the Application 🎬
+4. **Start the Application** 🎬
 
 Backend Server:
 
