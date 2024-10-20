@@ -45,8 +45,51 @@
    ```bash
    git clone https://github.com/your-username/UniRoomMatess.git
    cd UniRoomMatess
+Install Dependencies 📦
 
-2. **Install Dependencies 📦**
-- **Backend:**
+Backend:
+
+bash
+Copy code
 cd backend
 npm install
+Frontend:
+
+bash
+Copy code
+cd ../frontend
+npm install
+Configure Environment Variables 🛠️
+
+Create a .env file in the backend directory and add your configurations (e.g., database URI, JWT secret).
+
+Start the Application 🎬
+
+Backend Server:
+
+bash
+Copy code
+cd backend
+npm start
+Frontend Server:
+
+bash
+Copy code
+cd ../frontend
+npm run dev
+Launch the App 🌐
+
+Open your browser and navigate to http://localhost:5173 to start exploring UniRoomMatess!
+
+🏁 Getting Started
+Register: Sign up to create your profile and unlock all features. 📝
+Login: Access your account securely using the credentials you registered with. 🔐
+Explore: Dive into the home page to find potential roommates, join groups, and check out local events! 🎉
+🤝 Contribution
+We love contributions! Whether it's a bug fix, new feature, or documentation improvement, your help is welcome. Please refer to the CONTRIBUTING.md file for more details on how to contribute to this project. Let's make UniRoomMatess even better together! 🌟
+
+📝 License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish! 📄
+
+Connect • Share • Live 🏡✨
+Join UniRoomMatess today and start your journey towards finding the perfect roommate in Canada!
