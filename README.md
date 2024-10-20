@@ -45,3 +45,8 @@
    ```bash
    git clone https://github.com/your-username/UniRoomMatess.git
    cd UniRoomMatess
+
+2. **Install Dependencies 📦**
+- **Backend:**
+cd backend
+npm install
