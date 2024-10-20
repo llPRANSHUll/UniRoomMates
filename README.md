@@ -71,10 +71,13 @@ Open your browser and navigate to http://localhost:5173 to start exploring UniRo
 
 🏁 Getting Started
 Register: Sign up to create your profile and unlock all features. 📝
+
 Login: Access your account securely using the credentials you registered with. 🔐
+
 Explore: Dive into the home page to find potential roommates, join groups, and check out local events! 🎉
-🤝 Contribute to UniRoomMatess
-We love contributions! Whether it's a bug fix, new feature, or documentation improvement, your help is welcome. Check out our CONTRIBUTING.md for more details on how to get involved. Let's make UniRoomMatess even better together! 🌟
+
+🤝 Contribution
+We love contributions! Whether it's a bug fix, new feature, or documentation improvement, your help is welcome. Please refer to the CONTRIBUTING.md file for more details on how to contribute to this project. Let's make UniRoomMatess even better together! 🌟
 
 📝 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish! 📄
